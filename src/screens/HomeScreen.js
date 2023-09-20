@@ -6,6 +6,7 @@ import {BellIcon, MagnifyingGlassIcon} from 'react-native-heroicons/outline'
 import Categories from '../components/categories';
 import axios from 'axios';
 import Recipes from '../components/recipes';
+import { StyleSheet } from 'react-native';
 
 const HomeScreen = () => {
 
@@ -69,7 +70,7 @@ const HomeScreen = () => {
 
         {/*greetings and punchline */}
         <View className="mx-4 space-y-2 mb-2">
-          <Text style={{fontSize: hp(1.7)}} className="text-neutral-600"> Hello, Norman !</Text>
+          <Text style={{fontSize: hp(1.7)}} className="text-neutral-600"> Hello, Aly !</Text>
             <View>
               <Text style={{fontSize: hp(3.0)}} className="font-semibold text-neutral-600"> 
               Make your own food,
