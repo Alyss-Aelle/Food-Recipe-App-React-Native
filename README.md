@@ -1,8 +1,19 @@
-# Food-Recipe-App-React-Native
+![IMG_5125](https://github.com/Alyss-Aelle/MyFoodApp/assets/127324620/44b61dc3-a73a-4067-9644-56b83b85f624)# Food-Recipe-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
 
-  
+![IMG_5124](https://github.com/Alyss-Aelle/MyFoodApp/assets/127324620/8ebf7b0b-2a6d-45f1-872b-84723c898cc4)
+
+
+
+
+
+
+
+
+
+
+
+  ![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
   <p align="left">
     <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <p>
